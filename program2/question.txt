@@ -1,0 +1,1 @@
+Program to accept a number and print its absolute value using only ternary operator
