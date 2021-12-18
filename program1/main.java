@@ -36,7 +36,7 @@ public class main {
                 amt=0;
             }
         }
-        System.out.println("Two thousand rupee denomination: " + twoth + "\nFive Hundred rupee denomination: " + fivehu + "\nHundred rupee denomination: "+ onehu + "\nFifty rupee denomination: "+ fifty + "\nTwenty rupee denomination: " + twty + "\nTen rupe denomination: "+ ten+ "\nRemaining Amount: "+rem);
+        System.out.println("Two thousand rupee denomination: " + twoth + "\nFive Hundred rupee denomination: " + fivehu + "\nHundred rupee denomination: "+ onehu + "\nFifty rupee denomination: "+ fifty + "\nTwenty rupee denomination: " + twty + "\nTen rupe denomination: "+ ten+ "\nRemaining Amount: "+rem + "\nTotal Notes: "+(twoth+onehu+fivehu+fifty+ten+twty));
         
     }
 }
